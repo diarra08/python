@@ -1,0 +1,18 @@
+Pour commencer à jouer vous devez choisir (pari football CAN 2019) juste en dessous
+ainsi que le nombre de questions auquelles vous souhaitez répondre. 
+Le but du jeu est d’obtenir le meilleur coin (monnaie) possible, 
+pour chaque question vous devez écrire votre réponse dans la ligne de saisie. 
+Un bouton indice est à votre disposition, il affiche 4 propositions différentes,
+une seule d'entre elle est la bonne réponse. L'utilisation de ce bouton réduit
+le nombre de bt (point) obtenus. De plus afin de favoriser vos connaissances et 
+réduire les bt obtenus par hasard chaque mauvaise réponse apporte un -2. 
+Remarque:
+Vous devez laisser un espace entre les chiffre saisi comme reponse exemple:
+Quel est le score entre EGYPTE vs ZIMBABOWE la reponse sera comme cela 1 0
+
+Barème de bt (point) :
+
+correcte sans indice  + 5 bt
+correcte avec indice  + 3 bt
+abstention            + 0 bt
+fausse                - 2 bt
